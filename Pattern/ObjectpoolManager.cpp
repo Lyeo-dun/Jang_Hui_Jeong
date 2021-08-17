@@ -3,13 +3,14 @@
 #include "Object.h"
 
 
-ObjectpoolManager::~ObjectpoolManager()
-{
-	Release();
-}
 
 ObjectpoolManager::ObjectpoolManager()
 {
+}
+
+ObjectpoolManager::~ObjectpoolManager()
+{
+	Release();
 }
 
 void ObjectpoolManager::Initialize()
