@@ -1,8 +1,0 @@
-﻿  main.cpp
-E:\dataDownload\Github\제출용\Lyeo-dun\Lyeo-dun\Jang_Hui_Jeong\Macro\Macro\Pattern\ObjectpoolManager.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Headers.h': No such file or directory
-  Object.cpp
-  ObjectpoolManager.cpp
-E:\dataDownload\Github\제출용\Lyeo-dun\Lyeo-dun\Jang_Hui_Jeong\Macro\Macro\Pattern\ObjectpoolManager.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Headers.h': No such file or directory
-  PrototypeManager.cpp
-E:\dataDownload\Github\제출용\Lyeo-dun\Lyeo-dun\Jang_Hui_Jeong\Macro\Macro\Pattern\PrototypeManager.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'Headers.h': No such file or directory
-  코드를 생성하고 있습니다...
