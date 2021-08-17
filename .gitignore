@@ -99,6 +99,7 @@ StyleCopReport.xml
 *.scc
 *.sqlite
 *.db
+*.vs
 
 # Chutzpah Test files
 _Chutzpah*
